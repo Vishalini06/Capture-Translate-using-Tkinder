@@ -1,0 +1,9 @@
+tkinter
+opencv-python
+pytesseract
+deep_translator
+gTTS
+pyttsx3
+matplotlib
+pyttsx3
+os
